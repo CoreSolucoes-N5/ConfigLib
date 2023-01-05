@@ -1,0 +1,2 @@
+# ConfigLib
+Libraria para configuração
