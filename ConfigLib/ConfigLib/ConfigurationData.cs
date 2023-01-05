@@ -8,5 +8,6 @@ namespace ConfigLib
 {
     public class ConfigurationData
     {
+        public string Path { get; set; }
     }
 }
