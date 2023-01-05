@@ -3,7 +3,6 @@ Libraria para configuração
 
 ![image](https://user-images.githubusercontent.com/50460047/210865932-0edf38b1-0fef-41f1-8084-67f88a91a613.png)
 
-
 ## string vConfigurationFilePath;
 ## ConfigurationData vData { get; set; }
 The configuration data.
