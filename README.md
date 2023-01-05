@@ -1,5 +1,5 @@
 # ConfigLib
-Libraria para configuração
+Libraria para configuração para guardar em XML, JSON e ficheiros de Texto. (Verificações incluidas)
 
 ![image](https://user-images.githubusercontent.com/50460047/210865932-0edf38b1-0fef-41f1-8084-67f88a91a613.png)
 
