@@ -1,0 +1,15 @@
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\bin\Debug\ConfigLib.dll
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\bin\Debug\ConfigLib.pdb
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\obj\Debug\ConfigLib.csproj.AssemblyReference.cache
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\obj\Debug\ConfigLib.csproj.CoreCompileInputs.cache
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\obj\Debug\ConfigLib.csproj.CopyComplete
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\obj\Debug\ConfigLib.dll
+C:\Users\A038702\Desktop\ConfigLib\ConfigLib\obj\Debug\ConfigLib.pdb
+C:\GitHub\ConfigLib\ConfigLib-Xml&Text\ConfigLib\bin\Debug\ConfigLib.dll
+C:\GitHub\ConfigLib\ConfigLib-Xml&Text\ConfigLib\bin\Debug\ConfigLib.pdb
+C:\GitHub\ConfigLib\ConfigLib-Xml&Text\ConfigLib\obj\Debug\ConfigLib.csproj.AssemblyReference.cache
+C:\GitHub\ConfigLib\ConfigLib-Xml&Text\ConfigLib\obj\Debug\ConfigLib.csproj.CoreCompileInputs.cache
+C:\GitHub\ConfigLib\ConfigLib-Xml&Text\ConfigLib\obj\Debug\ConfigLib.dll
+C:\GitHub\ConfigLib\ConfigLib-Xml&Text\ConfigLib\obj\Debug\ConfigLib.pdb
